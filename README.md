@@ -1,7 +1,7 @@
 # UI-Prisoner-Skills-FE-AnushaKhan
 For your project this week, you will demonstrate proficiency by working with a group of students cross section to deliver a minimum viable product (MVP) over the course of the week.
 
-## **Your primary role User Interface Developer:**
+## **Your primary role User Interface Developer:*
 
 - [ ]  You will build a multi-page marketing website that matches the theme chosen by your group and provides the user with details about the product your team has selected to build.
 - [ ]  Your marketing website must include responsive mobile and desktop screen widths. Please see the "Responsiveness" portion of your rubric for more information on this.
